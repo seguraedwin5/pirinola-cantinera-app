@@ -1,0 +1,8 @@
+{
+  "name": "Remix Pirinola Cantinera - Juego de Tomar",
+  "description": "Pirinola virtual 3D con animaciones fluidas, contador de tiempo de tragos y modos de juego para fiestas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
